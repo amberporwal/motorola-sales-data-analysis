@@ -1,5 +1,5 @@
 
-# 📊 Mobikwik Sales Data Analysis
+# 📊 Motorola Sales Data Analysis
 
 A data analysis project focused on exploring Mobikwik sales data and presenting meaningful business insights.
 
