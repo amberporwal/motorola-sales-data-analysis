@@ -35,6 +35,12 @@ Add your dashboard screenshot here.
 
 Project findings will be documented after reviewing the completed dashboard.
 
+## 📄 Project Report
+
+You can view or download the complete Power BI dashboard report here:
+
+[📥 View Dashboard PDF](Reports/dashboard_project.pdf)
+
 ## 👨‍💻 Author
 
 **Amber Porwal**
