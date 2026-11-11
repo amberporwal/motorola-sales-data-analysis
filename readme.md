@@ -1,51 +1,44 @@
 
-# 📊 Sales Dashboard — Power BI
+# 📊 Mobikwik Sales Data Analysis
 
-An interactive Sales Dashboard built using Microsoft Power BI and Excel to explore sales performance and present business data through visual insights.
+A data analysis project focused on exploring Mobikwik sales data and presenting meaningful business insights.
 
 ## 🎯 Project Overview
 
-This project focuses on organizing and visualizing sales data to make business performance easier to understand.
+This project explores sales-related data to understand business performance, identify patterns and communicate findings through data visualization.
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools Used
 
 - Microsoft Power BI
 - Microsoft Excel
 
-## 📌 Dashboard Features
+## 📌 Project Objectives
 
-- Sales performance overview
-- Revenue and sales trends
-- Category-wise analysis
-- Product performance
-- Interactive data visualizations
+- Explore and understand the dataset.
+- Analyze sales performance.
+- Identify trends and patterns.
+- Present findings through visualizations.
+- Support data-driven decision-making.
 
-## 📂 Project Structure
+## 📁 Repository Structure
 
-```text
-Power-BI-Sales-Dashboard/
-├── Dashboard/
-├── Dataset/
-├── Screenshots/
-└── README.md
-```
+- `Dashboard/` — Power BI dashboard file.
+- `Dataset/` — Excel dataset.
+- `Screenshots/` — Dashboard preview images.
+- `README.md` — Project documentation.
 
 ## 📷 Dashboard Preview
 
-Add your dashboard screenshot in the Screenshots folder.
-
-![Sales Dashboard](Screenshots/dashboard-preview.png)
+Add your dashboard screenshot here.
 
 ## 💡 Key Insights
 
-Key findings will be added after reviewing the actual dashboard and dataset.
+Project findings will be documented after reviewing the completed dashboard.
 
-## 👩‍💻 Author
+## 👨‍💻 Author
 
 **Amber Porwal**
 
 Aspiring Data Analyst
 
----
-
-⭐ If you find this project useful, feel free to explore the repository.
+[GitHub Profile](https://github.com/amberporwal)
